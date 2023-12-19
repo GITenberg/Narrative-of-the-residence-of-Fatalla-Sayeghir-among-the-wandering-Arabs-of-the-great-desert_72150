@@ -1,0 +1,40 @@
+_repo: Narrative-of-the-residence-of-Fatalla-Sayeghir-among-the-wandering-Arabs-of-the-great-desert_72150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lamartine, Alphonse de
+    aliases:
+    - Lamartine, Alphonse Marie Louis de
+    - De Lamartine, Alphonse
+    - Lamartine de Prat, Alphonse-Marie-Louis de
+    birthdate: 1790
+    deathdate: 1869
+    gutenberg_agent_id: '4781'
+    url: http://www.gutenberg.org/2009/agents/4781
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alphonse_de_Lamartine
+    - https://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
+description: ''
+gutenberg_issued: '2023-11-17'
+identifiers:
+  gutenberg: '72150'
+  lccn: '05010103'
+language: en
+pgterms:marc904: https://archive.org/details/narrativeofresid00lama/page/n9/mode/2up
+pgterms:marc905: 20201101040659delamartin
+pgterms:marc906: '1836'
+pgterms:marc907: US
+production_note: Carla Foust, Brian Coe and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by the Library of Congress)
+publication_note: '  $aPhiladelphia :$bCarey, Lea & Blanchard, $c1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arabian Peninsula -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: Narrative of the residence of Fatalla Sayeghir among the wandering Arabs of
+  the great desert
+url: http://www.gutenberg.org/ebooks/72150
