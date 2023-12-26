@@ -1,5 +1,8 @@
 _repo: Narrative-of-the-residence-of-Fatalla-Sayeghir-among-the-wandering-Arabs-of-the-great-desert_72150
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72150-h/images/cover.jpg
 creator:
   author:
     agent_name: Lamartine, Alphonse de
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alphonse_de_Lamartine
     - https://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72150#Narrative-of-the-residence-of-Fatalla-Sayeghir-among-the-wandering-Arabs-of-the-great-desert
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72150'
